@@ -213,7 +213,14 @@
         "duration": "4:31",
         "youtubeLink": "https://youtu.be/at7rpdT8FeI"
 
+    },
+
+   {
+        "id": 21,
+        "ProjectName": "Online Calculator",
+        "languages": "HTML, CSS",
+        "platform": "YouTube",
+        "duration": "12:32",
+        "youtubeLink": "https://www.youtube.com/watch?v=kdykQAvSPa4"
     }
-
-
 ]
