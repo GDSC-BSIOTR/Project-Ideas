@@ -187,6 +187,86 @@
         "platform": "YouTube",
         "duration": "0:24:00",
         "youtubeLink": "https://youtu.be/GTWrWM1UsnA"
-    }
+    },
 
+    {
+        "id": 22,
+        "projectName": "Build Tesla Clone with React Native for iOS and Android",
+        "languages": "Javascript",
+        "platform": "YouTube",
+        "duration": "02:04:05",
+        "youtubeLink": "https://youtu.be/y7-IG4SSI3E"
+    },
+
+    {
+        "id": 23,
+        "projectName": "Build a Collaborative ToDo App in React Native (Full-stack MERN Tutorial )",
+        "languages": "MongoDB, Express, React, Node",
+        "platform": "YouTube",
+        "duration": "04:16:12",
+        "youtubeLink": "https://youtu.be/GFQDJlVEXRg"
+    },
+
+    {
+        "id": 24,
+        "projectName": "Let's Build the YouTube App with REACT NATIVE for Beginners",
+        "languages": "Javascript, React Native",
+        "platform": "YouTube",
+        "duration": "04:51:54",
+        "youtubeLink": "https://youtu.be/CQGV_FDvS-Q"
+    },
+
+    {
+        "id": 25,
+        "projectName": "Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course",
+        "languages": "Javascript, React Native",
+        "platform": "YouTube",
+        "duration": "05:50:14",
+        "youtubeLink": "https://youtu.be/1hPgQWbWmEk"
+    },
+
+    {
+        "id": 26,
+        "projectName": "Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Google Autocomplete)",
+        "languages": "Javascript, React Native",
+        "platform": "YouTube",
+        "duration": "03:45:05",
+        "youtubeLink": "https://youtu.be/bvn_HYpix6s"
+    },
+
+    {
+        "id": 27,
+        "projectName": "ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]",
+        "languages": "Javascript, React",
+        "platform": "YouTube",
+        "duration": "19:26:36",
+        "youtubeLink": "https://youtu.be/0mVbNp1ol_w"
+    },
+
+    {
+        "id": 28,
+        "projectName": "Code 15 React Projects - Complete Course",
+        "languages": "Javascript, React",
+        "platform": "YouTube",
+        "duration": "09:07:40",
+        "youtubeLink": "https://youtu.be/a_7Z7C_JCyo"
+    },
+
+    {
+        "id": 29,
+        "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
+        "languages": "Javascript, React",
+        "platform": "YouTube",
+        "duration": "08:43:33",
+        "youtubeLink": "https://youtu.be/RDV3Z1KCBvo"
+    },
+
+    {
+        "id": 30,
+        "projectName": "Learn the MERN Stack - Full Tutorial for Beginners (MongoDB, Express, React, NodeJS) in 12Hrs (2021)",
+        "languages": "MongoDB, Express, React, NodeJS",
+        "platform": "YouTube",
+        "duration": "12:01:49",
+        "youtubeLink": "https://youtu.be/ktjafK4SgWM"
+    }
 ]
